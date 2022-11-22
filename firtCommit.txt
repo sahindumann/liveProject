@@ -5,6 +5,8 @@ BACKEND:ASP.NET MVC MSSQL SERVER Ntier Mimari
 FRONTENT :JQUERY
 http://arabaarsivi.com/
 Aynı şekilde mobil uygulaması mevcuttur.Android native ile geliştirilmektedir.
+https://imgur.com/a/05D3mFt
+
 
 3D Modellerin olduğu bir sitedir.Kişilerin eklediği modellerden para kazanmasını ve sitenin bundan pay almasını amaçlamaktadır.
 BACKEND:ASP.NET MVC MSSQL SERVER Ntier Mimari 
@@ -14,5 +16,5 @@ http://3dstack.org/
 ASP.NET MVC CORE ANGULAR.JS  Ntier Mimari ile yenisi geliştirilmektedir.
 http://angular.3dstack.org
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+
 
