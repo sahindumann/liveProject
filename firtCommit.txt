@@ -1,0 +1,17 @@
+Projelerim kişisel olduğu için repoları gizlidir.
+
+0 Arabaların güncel fiyatlarının fiyat değişimlerinin olduğu bir sitedir.Attribute mantığı ile çalışmaktadır.İstenilen öznitelik dropdown,range,textbox şeklinde girebilir
+BACKEND:ASP.NET MVC MSSQL SERVER Ntier Mimari 
+FRONTENT :JQUERY
+http://arabaarsivi.com/
+Aynı şekilde mobil uygulaması mevcuttur.Android native ile geliştirilmektedir.
+
+3D Modellerin olduğu bir sitedir.Kişilerin eklediği modellerden para kazanmasını ve sitenin bundan pay almasını amaçlamaktadır.
+BACKEND:ASP.NET MVC MSSQL SERVER Ntier Mimari 
+FRONTENT :JQUERY
+http://3dstack.org/ 
+
+ASP.NET MVC CORE ANGULAR.JS  Ntier Mimari ile yenisi geliştirilmektedir.
+http://angular.3dstack.org
+
+
