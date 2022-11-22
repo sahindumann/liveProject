@@ -12,6 +12,7 @@ https://imgur.com/a/05D3mFt
 BACKEND:ASP.NET MVC MSSQL SERVER Ntier Mimari 
 FRONTENT :JQUERY
 http://3dstack.org/ 
+https://imgur.com/a/YL1UYeA
 
 ASP.NET MVC CORE ANGULAR.JS  Ntier Mimari ile yenisi geliştirilmektedir.
 http://angular.3dstack.org
