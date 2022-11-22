@@ -1,6 +1,6 @@
 Projelerim kişisel olduğu için repoları gizlidir.
 
-0 Arabaların güncel fiyatlarının fiyat değişimlerinin olduğu bir sitedir.Attribute mantığı ile çalışmaktadır.İstenilen öznitelik dropdown,range,textbox şeklinde girebilir
+0 Arabaların güncel fiyatlarının fiyat değişimlerinin olduğu bir sitedir.Attribute mantığı ile çalışmaktadır.İstenilen öznitelik dropdown,range,textbox şeklinde girebilir.Birtek araba için değil her bir nesne için öznitelik ve alt öznitelikler eklenebilir ve sorgulanabilir.
 BACKEND:ASP.NET MVC MSSQL SERVER Ntier Mimari 
 FRONTENT :JQUERY
 http://arabaarsivi.com/
